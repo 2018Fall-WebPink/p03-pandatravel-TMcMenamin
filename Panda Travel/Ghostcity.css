@@ -1,0 +1,21 @@
+/*
+* Tess McMenamin
+* October 26th  
+* Panda Travel Agency 03  
+*/
+
+?* The universal selector */ 
+
+*{
+
+}
+
+/* Body attributes here */ 
+
+Body {
+    background-color: 
+}
+#GhostCityInn {width:200 px; height:200px;} 
+#OutsideoftheInn  {width:300px; height:200px;} 
+#Food {width:200px; height:50px;} 
+#ViewsfromtheInn {width:250px; height:150px;}   
